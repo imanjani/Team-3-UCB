@@ -1,0 +1,50 @@
+UCB-Team-3-Project-1-Proposal
+
+Team: 3 
+Team Members: Iman, Dana, Greg, Aizza, Marc
+
+Question 1: What is the relationship between Bitcoin price and Bitcoin 24 hour volume (USD)
+Validate our results with FANG stocks. 
+-Facebook
+-Apple
+-Amazon
+-Netlfix
+-Google
+
+Data source: https://finance.yahoo.com/quote/BTC-USD/history?p=BTC-USD
+Downloaded csv file for weekly data for Dec 1, 2016- Dec 1, 2017
+Use adjusted closing price.
+
+[Marc]
+
+Graph:
+X axis: Time
+Double Y axis: Price and Volume
+
+Hypothesis: There is a correlation in change in price with change in transaction volume (there may be a time lag between the two)
+
+Question 2: What is the relationship between the Bitcoin price and the volume of tweets about Bitcoin by major banks (or bank CEOs) and major press outlets
+Validate our results with FAANG stocks (tweets about the tech company by major banks)
+[Iman, Greg]
+
+Major Banks: Wells Fargo, Chase, Goldman Sachs...
+Major press outlets: NY Times, Washington Post, Wall Street Journal..
+
+Question 3: What is the relationship between the Bitcoin price and the sentiment of tweets about Bitcoin by major banks and major press outlets
+Validate our results with FAANG stocks (tweets about the tech company by major banks)
+[Iman, Greg]
+
+Additional analysis for BitCoin:
+
+What is the relationship between BitCoin price and the number Brick-and-mortar establishments worldwide that use Bitcoins?
+Same time period Dec 1, 2016- Dec 1, 2017
+data source: http://coinmap.org/api/
+
+[Dana]
+
+End Result Graph:
+X axis: Time
+Double Y axis: Price and Volume
+
+In cass:
+Bit coin data sources: https://www.coindesk.com/9-useful-bitcoin-data-resources/
